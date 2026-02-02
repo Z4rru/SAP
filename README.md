@@ -1,4 +1,4 @@
-# SAP
+
 # SAP SD Ultimate Crash Course 2026
 
 A comprehensive, production-ready web application for learning SAP Sales & Distribution (SD) module.
